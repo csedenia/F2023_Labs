@@ -4,5 +4,5 @@ For the first lab exercise, we shall learn
 2. Set up a local Git repository
 3. Set up a remote Git repository on GitHub
 
-![alt text](C:\Users\edenia\Desktop\Timburlaine.jpg)
+<img src="C:\Users\edenia\Desktop\Eden\Timburlaine.jpg" alt="Alt text" title="Optional title">
 
